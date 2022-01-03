@@ -1,0 +1,39 @@
+.first-list{
+    background-color: aquamarine;
+    list-style-type:square;
+    /* display:inline-block; */
+}
+.ol-list{
+    background-color: antiquewhite;
+    list-style-type:lower-roman;
+    /* display:inline-block; */
+}
+.dl-list{
+ background-color:aquamarine;
+ /* display:inline-block; */
+}
+.ol-ul-list{
+    background-color:antiquewhite;
+}
+.text{
+    border:1px solid black;
+    display:inline-block;
+    height:500px;
+    width:600px;
+    background-color:cornsilk;
+    vertical-align:top;
+    margin-top:40px;
+    margin-left:130px;
+}
+.img img{
+    height:500px;
+    width:600px;
+}
+.img{
+    display:inline-block;
+    border:1px solid black;
+    height:500px;
+    width:600px;
+    margin-top:40px;
+    margin-left:20px;
+}
